@@ -144,3 +144,8 @@ This project demonstrates a modern, scalable approach to query optimization:
 Together, they form a highly optimized natural-language query system.
 
 ⸻
+
+
+https://github.com/user-attachments/assets/38f08bb3-a3fe-40a5-a8ff-0aa67da6be78
+
+
